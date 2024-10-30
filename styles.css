@@ -57,6 +57,9 @@
     justify-content: flex-end;
     flex-direction: column;
     align-items: center;
+    position: absolute;
+    content: "";
+    left: 19%;
 }
 
 .supervisor__header {
@@ -159,5 +162,36 @@
 .calculatorimg {
     margin-top: 40px;
     display: flex;
+}
+
+.container__teambuilder {
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    content: "";
+    right: 40%;
+    top: 20%;
+}
+
+
+.container__karma {
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    content: "";
+    right: 39.5%;
+    top: 60%;
+}
+
+.container__calculator {
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    content: "";
+    right: 18%;
+    top: 28%;
 }
 
