@@ -1,0 +1,163 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.main__header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+    font-weight: 1;
+    
+}
+
+.sub__header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.wrapper__supervisor {
+    border: 2px solid grey;;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top: 6px solid teal;
+    margin-top: 80px;
+}
+
+.supervisorimg {
+    margin-top: 40px;
+    display: flex;
+}
+
+.supervisor__img {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+.supervisor__text {
+    margin-top: 15px;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+.container__supervisor {
+    
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+}
+
+.supervisor__header {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.wrapper__teambuilder {
+    border: 2px solid grey;;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top: 6px solid red;
+}
+
+.teambuilder__img {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+.teambuilder__text {
+    margin-top: 15px;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+.teambuilder__header {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.wrapper__karma {
+    border: 2px solid grey;;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top: 6px solid yellow;
+}
+
+.karma__header {
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.karma__text {
+    margin-top: 15px;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+.karma__img {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+.wrapper__calculator {
+    border: 2px solid grey;;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-top: 6px solid blue;
+}
+
+.calculator__header {
+    padding-left: 15px;
+    padding-top: 15px;
+
+}
+
+.calculator__text {
+    margin-top: 15px;
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+.calculator__img {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+.teambuilderimg {
+    margin-top: 40px;
+    display: flex;
+}
+
+.karmaimg {
+    margin-top: 40px;
+    display: flex;
+}
+
+.calculatorimg {
+    margin-top: 40px;
+    display: flex;
+}
+
